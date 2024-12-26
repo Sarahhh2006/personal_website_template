@@ -9,9 +9,9 @@ comments: true
 ---
 
 ### همکلاسی‌ها
-* [علی حسینی](http://alihosseini.github.io)
-* بهداد محمدی
-* حسن داریان
+* [فاطمه دولتی](http://fatemedolati8.github.io)
+* مانیا جلالی
+* مریم محمدی
 
 
 

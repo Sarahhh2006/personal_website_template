@@ -9,19 +9,18 @@ comments: false
 ---
 
 
-# ekhteshash
+# Student at IUST
 
-werwe
-rwe
+ Reliable with deadlines and dedicated to following instructions . Passionate and creative about the computer programming .
 
 ## Tehran
 lsdfksd
 
-### Azadi
+<!-- ### Azadi
 ### Enghelab
 
 - mored 1
-- mored 2
+- mored 2 -->
 
 My favorite website is [yahoo](http://www.yahoo.com).
 

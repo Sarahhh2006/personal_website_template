@@ -2,14 +2,22 @@
 layout: single
 author_profile: true
 permalink: /courses/
-title: Courses
-tags: [Studying, courses]
+title: Term 1
+tags: []
 modified: 9-14-2019
-comments: false
+comments: true 
 ---
 
 
-|           | **Current**                    |
+|**day/time**|**7:30_9:00**|**9:00_10:30**|**10:30_12:00**|
+|-|-|-|-|
+|***Saturday***|computer basics|physics|english|
+|***Sunday***|computer workshop|computer basics|mathemathics|
+|***Monday***|computer industry|physics|english|
+|***Tuesday***|computer workshop|computer basics|mathemathics|
+
+
+<!-- |           | **Current**                    |
 |----|------|--------------------------------|
 |2019|Fall  | **<a href="">Computer Programming Fundamentals</a>**         |
 |----|------|--------------------------------|
@@ -34,4 +42,4 @@ comments: false
 |----|------|--------------------------------------------|
 |2018|Spring| **Advanced Programming - C#**             |
 |----|------|--------------------------------------------|
-|2018|Spring| **Natural Language Processing (Undergraduate)** |
+|2018|Spring| **Natural Language Processing (Undergraduate)** | -->
