@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: single
 author_profile: true
 permalink: /hobbies/
@@ -9,6 +9,6 @@ comments: false
 ---
 
 
-* [BJJ](http://www.bjjheros.com/)
+* [BJJ](http://www.bjjheros.com/) -->
 
 
