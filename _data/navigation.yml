@@ -12,8 +12,8 @@ main:
   #   url: /hobbies/  
   - title: "Gallery"
     url: /gallery/
-  # - title: "Blog"
-  #   url: /blog/
+  - title: "MyFinal"
+    url: /myfinal/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
